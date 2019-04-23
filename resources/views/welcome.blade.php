@@ -89,7 +89,7 @@
                     <a href="https://github.com/onofflink/startup/blob/markdown/readme.md">README</a>
                     <a href="https://onofflink.co.kr">HOMEPAGE</a>
                     <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
+                    <a href="https://blog.naver.com/aiegoo">Blog</a>
                     <a href="https://cisco.com">CISCO</a>
                     <a href="http://cc.onoffjoin.com/master">EVENT</a>
                     <a href="https://github.com/onofflink">GitHub</a>
